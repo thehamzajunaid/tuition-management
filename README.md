@@ -1,3 +1,2 @@
 # tuition-management
-A productivity booster web app made for my personal use. Inspired by pomodoro technique. Has a
-stopwatch which rings upon intervals completion and a todos maintainer
+A web application to manage tuition centre. Students and Teachers both have their personal dashboards. Have the fucnctionality of register, log in, selecting courses, teachers. Dashboard is maintained as per the user's profile status. 
